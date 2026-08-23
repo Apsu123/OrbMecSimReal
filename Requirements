@@ -1,0 +1,7 @@
+Right now, I'm working on the math side. The simulation will generate a list of coordinates of different objects. The thing I need the gui to be able to do is to get those coordinates and animate the objects. 
+
+It should also be able to label stuff. 
+
+Moreover, there are also going to be some graphs which will show different important quantities evolve. This will be the potential and kinetic energy of the system.
+
+So, I need a multiwindow gui.
