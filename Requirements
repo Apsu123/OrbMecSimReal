@@ -5,3 +5,5 @@ It should also be able to label stuff.
 Moreover, there are also going to be some graphs which will show different important quantities evolve. This will be the potential and kinetic energy of the system.
 
 So, I need a multiwindow gui.
+
+1 unit distance = 1 AU
